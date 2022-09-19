@@ -9,3 +9,4 @@
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimayeon12&layout=compact)](https://github.com/kimayeon12/github-readme-stats) -->
 
+![*'s GitHub stats](https://github-readme-stats.vercel.app/api?username=kimayeon12&show_icons=true&theme=radical)
