@@ -6,6 +6,5 @@
 
 
 <h2>my test stack</h2>
-<hr/>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=?style=for-the-badge&logo=Spring&logoColor=ffffff"/>
 
