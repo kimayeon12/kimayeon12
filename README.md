@@ -7,6 +7,5 @@
 
 <h2>my test stack</h2>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=?style=for-the-badge&logo=Spring&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/Java-6DB33F?style=?style=for-the-badge&logo=java&logoColor=ffffff"/>
-https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white
+<img src="https://img.shields.io/badge/Java-6DB33F?style=?style=for-the-badge&logo=Java&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/Java-007396?style=?style=for-the-badge&logo=Java&logoColor=ffffff"/>
